@@ -176,7 +176,7 @@ if(contArgentinaLuz != 0){
 
 
 console.log("C- El promedio de la cantidad de lamparas vendidas de cada marca es de: FelipeLamparas:" + promFelipeLamparas + " ArgentinaLuz:" + promArgentinaLuz + " Illuminatis:" + promIlluminatis);
-console.log("D- La marca con más ventas es: " + marcaMasVentas)
+console.log("D- La marca con más ventas es: " + marcaMasVentas);
 
 
 }
